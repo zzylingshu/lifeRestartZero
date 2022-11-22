@@ -8,4 +8,4 @@
 
 #在线试玩
 
-#https://mypirlo.github.io/lifeRestartZero/view/index.html
+https://zzylingshu.github.io//lifeRestartZero/view/index.html
